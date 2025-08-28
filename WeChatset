@@ -1,0 +1,14 @@
+payload:
+  - DOMAIN-SUFFIX,wechat.com
+  - DOMAIN-SUFFIX,qpic.cn
+  - DOMAIN-SUFFIX,wechatpay.cn
+  - DOMAIN-SUFFIX,qlogo.cn
+  - DOMAIN-SUFFIX,wx.qq.com
+  - DOMAIN-SUFFIX,servicewechat.com
+  - DOMAIN-SUFFIX,scdsjzx.com
+  - DOMAIN-SUFFIX,servicewechat.com
+  - DOMAIN-SUFFIX,weixinconf.qq.com
+  - DOMAIN-SUFFIX,wxs.qq.com
+  - DOMAIN-SUFFIX,weixinconf.qq.com
+  - DOMAIN-SUFFIX,wechatapp.com
+  - DOMAIN-SUFFIX,xdow.net

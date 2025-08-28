@@ -1,0 +1,17 @@
+payload:
+  - DOMAIN-SUFFIX,ebay.com
+  - DOMAIN-SUFFIX,ebay-us.com
+  - DOMAIN-SUFFIX,ebay.be
+  - DOMAIN-SUFFIX,ebay.ca
+  - DOMAIN-SUFFIX,ebay.co.uk
+  - DOMAIN-SUFFIX,ebay.co.jp
+  - DOMAIN-SUFFIX,ebay.com.au
+  - DOMAIN-SUFFIX,ebay.com.my
+  - DOMAIN-SUFFIX,ebay.fr
+  - DOMAIN-SUFFIX,ebayadservices.com
+  - DOMAIN-SUFFIX,ebaycdn.net
+  - DOMAIN-SUFFIX,ebaydsec.com
+  - DOMAIN-SUFFIX,ebayimg.com
+  - DOMAIN-SUFFIX,ebayrtm.com
+  - DOMAIN-SUFFIX,ebaystatic.com
+  - DOMAIN-SUFFIX,ebaystratus.com

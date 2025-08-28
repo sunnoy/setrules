@@ -1,0 +1,4 @@
+payload:
+  - DOMAIN-SUFFIX,etsy.com
+  - DOMAIN-SUFFIX,etsy.me
+  - DOMAIN-SUFFIX,etsystatic.com

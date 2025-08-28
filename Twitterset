@@ -1,0 +1,10 @@
+payload:
+  - DOMAIN-SUFFIX,twitter.com
+  - DOMAIN-SUFFIX,ads-twitter.com
+  - DOMAIN-SUFFIX,t.co
+  - DOMAIN-SUFFIX,twimg.co
+  - DOMAIN-SUFFIX,twimg.com
+  - DOMAIN-SUFFIX,twittr.com
+  - DOMAIN-SUFFIX,twitpic.com
+  - DOMAIN-SUFFIX,twitter.jp
+  - DOMAIN-SUFFIX,vine.co

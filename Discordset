@@ -1,0 +1,7 @@
+payload:
+  - DOMAIN-SUFFIX,discord.com
+- DOMAIN-SUFFIX
+  - DOMAIN-SUFFIX,discord.media
+- DOMAIN-SUFFIX
+  - DOMAIN-SUFFIX,discordapp.net
+- DOMAIN-SUFFIX
